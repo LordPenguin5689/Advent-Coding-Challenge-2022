@@ -1,0 +1,2 @@
+C:\Users\adamt\source\repos\AdventCode2\Debug\AdventCode2.exe
+C:\Users\adamt\source\repos\AdventCode2\Debug\AdventCode2.pdb
